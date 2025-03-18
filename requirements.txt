@@ -1,0 +1,5 @@
+customtkinter==5.2.2
+requests==2.31.0
+pillow==10.4.0
+robloxpy==0.2.21
+pyperclip==1.8.2 
