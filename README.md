@@ -16,7 +16,9 @@ A powerful and advanced Roblox cookie checker tool with a modern dark-themed GUI
 
 ## Screenshots
 
-[Add your screenshots here]
+![cookie-checker-1](https://github.com/user-attachments/assets/21f516bb-44a0-40ca-8134-73537083f0bd)
+![cookie-checker-2](https://github.com/user-attachments/assets/0951c2c2-8a5e-4caf-89b9-84513f3247b3)
+
 
 ## Installation
 
